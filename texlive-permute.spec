@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-permute
-Version:	20070112
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Support for symmetric groups
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/permute
